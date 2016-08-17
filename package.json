@@ -1,0 +1,14 @@
+{
+  "name": "vz-ent",
+  "version": "0.0.0",
+  "description": "VzEnt",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator"
+  },
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "node-rest-client": "^2.0.1",
+    "restify": "^4.1.1"
+  }
+}
